@@ -1,3 +1,4 @@
 *.beam
 *.dump
+*~
 error_logs
